@@ -22,6 +22,6 @@
 <code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
           
