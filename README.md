@@ -7,8 +7,8 @@
 
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorkrz&theme=aura&show_icons=true">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorkrz&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorzuck01&theme=aura&show_icons=true">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorzuck01&layout=compact&langs_count=7&theme=aura"/>
   
 </div>
 <br>
