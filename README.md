@@ -19,7 +19,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html"/></code>
 <code><img height="53" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C"/></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript"/></code> 
-<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
+<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code>  
+
+
+<h3>Github antigo</h3> 
+<p>https://github.com/Thorkrz</p>
 
 
 
